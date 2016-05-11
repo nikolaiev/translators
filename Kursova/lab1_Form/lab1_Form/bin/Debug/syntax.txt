@@ -1,0 +1,17 @@
+program lab1
+var ,a,b:integer
+begin
+a = 2
+b = 3
+read(,a,b)
+if [ a > b ]
+a = a * b
+else
+a = a - b
+do while [ [ ( a + 8 )  > 0 ] ]
+a = ( a - 1 ) 
+write(,a)
+enddo
+endif
+write(,a)
+end

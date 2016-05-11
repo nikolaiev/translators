@@ -1,0 +1,9 @@
+program lab1
+var ,a,b:integer
+begin
+a = 2
+do while [ [ ( a + 8 )  > 0 ] ]
+a = ( a - 1 ) 
+write(,a)
+enddo
+end

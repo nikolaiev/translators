@@ -1,0 +1,9 @@
+program lab1
+var ,a,b:integer
+begin
+do while a  > 0
+do while a  > 0
+a = ( a - 1 )
+enddo
+enddo
+end

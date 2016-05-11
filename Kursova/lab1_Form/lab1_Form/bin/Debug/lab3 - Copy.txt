@@ -1,0 +1,12 @@
+program lab1
+var ,a,b:integer
+begin
+a = 2
+b = 2
+do while  a - 3 * 3 < 5
+a = a + 3
+do while  b - 4 < 5
+b = b + 3
+enddo
+enddo
+end

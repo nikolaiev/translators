@@ -1,0 +1,13 @@
+program lab1
+var ,a,b:integer
+begin
+a = 1
+b = 2 
+read(,a)
+if [ a > b ]
+a = a * b
+else
+a = a - b
+endif
+write(,a,b)
+end
